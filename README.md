@@ -1,7 +1,5 @@
 # cmus-notify
 
-===================
-
 cmus-notify uses libnotify notify-send to display track changes live on screen.
 
 It can also get status infos out of radio-streams.
